@@ -3,7 +3,7 @@ import 'package:fp1/gradient_container.dart';
 
 void main() {
   runApp(
-    const MaterialApp(
+     const MaterialApp(
       home: Scaffold(
         body: GradientContainer(colors: [
           Colors.deepPurpleAccent,
